@@ -721,10 +721,6 @@ NeurIPS 2022. [[PDF](https://arxiv.org/abs/2210.08936)] [[Project](https://ywq.g
 *[Xiao Fu](https://fuxiao0719.github.io/), Shangzhan Zhang, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao.*<br>
 3DV 2022. [[PDF](http://arxiv.org/abs/2203.15224)] [[Project](https://fuxiao0719.github.io/projects/panopticnerf/)] [[Github](https://github.com/fuxiao0719/PanopticNeRF)]
 
-**Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces.**<br>
-*Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao.*<br>
-3DV 2022. [[PDF](https://arxiv.org/abs/2208.14851)] 
-
 **Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects.**<br>
 *Ziyu Wang, Yu Deng, Jiaolong Yang, Jingyi Yu, Xin Tong.*<br>
 Pacific Graphics & CGF 2022. [[PDF](https://arxiv.org/abs/2209.04183)] [[Github](https://ziyuwang98.github.io/GDRF/)]
